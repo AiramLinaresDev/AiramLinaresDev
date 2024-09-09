@@ -18,8 +18,7 @@ Los usuarios se registran y pueden hacer varias acciones dentro de la app tal co
 
 > "La receta que estas buscando"
 
-[Visita el front aquí](https://github.com/AiramLinaresDev/RecipeTool)
-[Visita el back aquí](https://github.com/AiramLinaresDev/ApiUsersRecipeTool)
+[🔗 Visita el repositorio del Frontend](https://github.com/AiramLinaresDev/RecipeTool) | [🔗 Visita el repositorio del Backend](https://github.com/AiramLinaresDev/ApiUsersRecipeTool)
 
 ---
 
@@ -45,4 +44,5 @@ Mi pasión es el desarrollo backend, especialmente con ASP.NET y C#. Sin embargo
 
 ## 🌐 Conéctate conmigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Airam%20Linares-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/airam-linares-b38839261)
+✉️ **Email**: [airamlinaresdev@gmail.com](mailto:airamlinaresdev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Airam%20Linares-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/airam-linares-b38839261)
