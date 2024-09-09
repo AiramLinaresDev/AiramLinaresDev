@@ -7,7 +7,6 @@ Soy un desarrollador especializado en backend con experiencia en una variedad de
 ## 🚀 Proyectos Destacados
 
 ### 🚀 [**RecipeTool**](https://github.com/AiramLinaresDev/RecipeTool)
-Una breve descripción de tu proyecto. Aquí puedes incluir qué tecnologías utilizaste, el propósito del proyecto, y qué problemas resuelve.
 RecipeTool es una app de búsqueda de recetas en todo internet. Solo está realizada la parte móvil con Ionic, los datos de las recetas se recogen a traves de la Api [**Edamam**](https://www.edamam.com/).
 Los usuarios se registran y pueden hacer varias acciones dentro de la app tal como añadir una receta a favoritos o crear listas de la compra con los ingredientes de las recetas.
 
