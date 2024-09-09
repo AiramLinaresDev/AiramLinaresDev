@@ -44,5 +44,6 @@ Mi pasión es el desarrollo backend, especialmente con ASP.NET y C#. Sin embargo
 
 ## 🌐 Conéctate conmigo
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Airam%20Linares-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/airam-linares-b38839261)  
 ✉️ **Email**: [airamlinaresdev@gmail.com](mailto:airamlinaresdev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Airam%20Linares-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/airam-linares-b38839261)
+
